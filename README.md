@@ -251,8 +251,8 @@ Contributions, issues, and feature requests are welcome!.
 
 **Haya M.**
 
-- GitHub: [@yourusername](https://github.com/haya8888333-dev)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/haya-m-sap-cx-293b63208).
+- GitHub: [@Myacount](https://github.com/haya8888333-dev)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/haya-m-sap-cx-293b63208).
 
 ## 🙏 Acknowledgments
 
