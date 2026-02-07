@@ -3,7 +3,7 @@
 
 A comprehensive Power BI dashboard analyzing sales performance across Saudi Arabian regions for 2024. This project demonstrates advanced data visualization, DAX formulas, and business intelligence best practices.
 
-![Dashboard Preview](assets/overview-dashboard.png)
+
 
 ## 🎯 Project Overview
 
@@ -200,46 +200,6 @@ Automatic text insights highlight key findings and anomalies in the data.
 - Tooltips with additional context
 - Dynamic titles based on selections
 
-## 📁 Project Structure
-
-```
-sales-dashboard-saudi-arabia/
-│
-├── README.md
-├── SalesData_SA.pbix                 # Power BI file
-├── data/
-│   └── SalesData_SA.xlsx             # Source data
-├── assets/
-│   ├── overview-dashboard.png
-│   ├── sales-performance.png
-│   ├── customer-analysis.png
-│   ├── profitability.png
-│   └── vat-time-analysis.png
-└── documentation/
-    └── DAX-Formulas.md
-```
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Power BI Desktop (latest version)
-- Basic understanding of Power BI and DAX
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/sales-dashboard-saudi-arabia.git
-```
-
-2. Open the `.pbix` file in Power BI Desktop
-
-3. Refresh the data source if needed
-   - Go to Home → Transform Data → Data Source Settings
-   - Update the file path to your local `SalesData_SA.xlsx` location
-
-4. Explore the dashboard!
-
 ## 📊 Sample Data
 
 The dashboard uses 2024 sales data from a retail business including:
@@ -284,19 +244,15 @@ This project demonstrates proficiency in:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/sales-dashboard-saudi-arabia/issues).
+Contributions, issues, and feature requests are welcome!.
 
-## 📝 License
-
-This project is [MIT](LICENSE) licensed.
 
 ## 👤 Author
 
 **Haya M.**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- GitHub: [@yourusername](https://github.com/haya8888333-dev)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/haya-m-sap-cx-293b63208).
 
 ## 🙏 Acknowledgments
 
@@ -306,25 +262,10 @@ This project is [MIT](LICENSE) licensed.
 
 ---
 
-⭐ **If you found this project helpful, please consider giving it a star!** ⭐
-
-## 📸 Screenshots
-
-### Overview Dashboard
-![Overview](assets/overview-dashboard.png)
-
-### Sales Performance
-![Sales Performance](assets/sales-performance.png)
-
-### Customer Analysis
-![Customer Analysis](assets/customer-analysis.png)
-
-### Profitability & Discounting
-![Profitability](assets/profitability.png)
-
-### VAT & Time Analysis
-![VAT Analysis](assets/vat-time-analysis.png)
+<div align="center">
+⭐ If you find this project useful, please consider giving it a star! ⭐
+Made with ❤️ and Power BI
+</div>
 
 ---
 
-**Last Updated:** February 2026
