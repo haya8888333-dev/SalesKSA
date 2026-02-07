@@ -166,12 +166,6 @@ DIVIDE(
     0
 )
 
-Customer Lifetime Value = 
-SUMX(
-    VALUES(SalesData_SA[Customer ID]),
-    CALCULATE([Total Sales Excl VAT])
-)
-
 Simulated Profit = 
 VAR DiscountRate = SELECTEDVALUE('Discount Scenario'[Discount Rate], 0)
 VAR AdjustedRevenue = [Total Sales Excl VAT] * (1 - DiscountRate)
